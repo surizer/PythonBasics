@@ -7,12 +7,11 @@ This space is designed to help beginners and enthusiasts learn and refresh Pytho
 - Covers a **broad range of Python concepts** to ensure comprehensive practice.
 - Exercises are **standalone**, allowing you to focus on specific topics without dependencies.
 - Code versioning follows a consistent naming convention for clarity:
-  - **File name**: `Exercise no - Exercise name`
-  - **Commit message**: `Exercise no - Exercise name`
+   - **Exercise no - Exercise name, Commit message**
  
 ## Environment Setup
-- **Development Environment**: [PyCharm](https://www.jetbrains.com/pycharm/)
-- **Python Interpreter**: [Conda](https://docs.conda.io/)  
+**Development Environment**: [PyCharm](https://www.jetbrains.com/pycharm/)
+**Python Interpreter**: [Conda](https://docs.conda.io/)  
 
 
 ## Fundamentals of Python Covered
